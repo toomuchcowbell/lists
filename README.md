@@ -20,4 +20,6 @@ Description:
   one here and I'll add u to contributors n authors... You know, so your name is 
   online more.
   
+  ***don't forget to compile with the .o file***
+  
   Anyway, have fun boo.
