@@ -9,6 +9,7 @@ int main()
     //PLEASE PUT YOUR CODE HERE to call the function assigned
     object.same_as_head();
     object.same_as_tail();
+    object.greater_than_4();
 
 
     
